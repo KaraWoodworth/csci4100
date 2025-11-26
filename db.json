@@ -1,0 +1,16 @@
+{
+  "Profiles": [
+    {
+      "id": 1,
+      "Name": "Kara",
+      "DisplayName": "KaraW",
+      "Credentials": "KaraW"
+    },
+    {
+      "id": 2,
+      "Name": "admin",
+      "DisplayName": "admin",
+      "Credentials": "admin"
+    }
+  ]
+}
